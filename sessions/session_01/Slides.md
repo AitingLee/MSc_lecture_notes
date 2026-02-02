@@ -19,7 +19,7 @@ class: center, middle
 ## Who are we?
 
   * **Teachers**: Helge, Mircea
-  * **TAs**: Talha, Babette, and Patrick
+  * **TAs**:  Babette, Patrick, and Talha
 
 ### How to contact us?
 
