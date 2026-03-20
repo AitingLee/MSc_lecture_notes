@@ -37,7 +37,7 @@ In case you find non-functional/erroneous behavior please report it via issues t
 
 **Do not** send requests to the simulator API of the other group. It is really only meant for the simulator (behave nicely towards the other group!). In case you want to make sure that non of the other groups sends requests to the simulator API of your group, you might want to only accept connections from the simulator server, which has the IP `104.248.134.203`.
 
-Please find which group's user interface you are checking in the list below. Find your own group on the left-hand side and the name of the group your are checking behind the arrow. You will find the URL of the _ITU-MiniTwit_ application from the respective group in file [`repositories.py`](https://github.com/itu-devops/BSc_lecture_notes/blob/master/repositories.py) (first of the two given URLs).
+Please check the user interface of the group that is following you in alphabetical order in the [`repositories.py`](https://github.com/itu-devops/BSc_lecture_notes/blob/master/repositories.py) file. The last group checks group a. You will find the URL of the _ITU-MiniTwit_ application as being the first of the two given URLs in the aforementioned file. 
 
 
 
