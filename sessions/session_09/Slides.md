@@ -6,7 +6,7 @@ Mircea Lungu, Associate Professor,<br>
 
 # Introduction
 
-## The story of healthcare.gov
+## The story of Healthcare.gov
 
 Highly anticipated launch (e.g. the [healthcare.gov](https://www.cbsnews.com/news/healthcaregov-plagued-by-crashes-on-1st-day/) story) that resulted in the system experiencing a performance degradation 
 
