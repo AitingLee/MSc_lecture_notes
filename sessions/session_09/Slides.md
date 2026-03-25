@@ -97,7 +97,7 @@ Possible Reasons for congestion
 
 ### How to achieve availability
 
-#### Addressing SPF
+#### Addressing Single Point of Failu
 ##### Life solves availability by replication
 
 We can learn from one of the most marvelous systems that we are aware of: the human body. 
