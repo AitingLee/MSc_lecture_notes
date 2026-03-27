@@ -604,7 +604,7 @@ Two `update-order` options: (stop-first|start-first)
 
 ## How to migrate from docker-compose to docker swarm?
 
-In the [exercise](./README_EXERCISE.md) you'll first learn the imperative commands (`docker service create`, `docker service scale`). Here we look at the declarative approach — using your existing compose file.
+In the [exercise](./README_EXERCISE.md) you'll create the swarm infrastructure — provisioning nodes, initializing the swarm, joining workers. Here we look at the next step: how to deploy your services onto that swarm using your existing compose file.
 
 It's simple.
 

@@ -318,9 +318,9 @@ See: [documentation](https://docs.digitalocean.com/reference/api/api-reference/#
 Note:
 - The interactive guide is based on the [tutorial at DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-create-a-cluster-of-docker-containers-with-docker-swarm-and-digitalocean-on-ubuntu-16)
 
-### Next step: declarative deployment with `docker stack`
+### Next step: deploying your services with `docker stack`
 
-In this exercise you used imperative commands (`docker service create`, `docker service scale`). For your projects, you'll want the declarative approach: add a `deploy` key to your existing `docker-compose.yml` and use `docker stack deploy`. See the [lecture slides](./Slides.md#how-to-migrate-from-docker-compose-to-docker-swarm) for details.
+Now that you have a swarm running, the next step is deploying your services onto it. For your projects, you'll add a `deploy` key to your existing `docker-compose.yml` and use `docker stack deploy`. See the [lecture slides](./Slides.md#how-to-migrate-from-docker-compose-to-docker-swarm) for details.
 
 
 
