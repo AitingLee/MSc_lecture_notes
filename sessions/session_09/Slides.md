@@ -202,7 +202,7 @@ Source: [Styrelsen for Samfundssikkerhed _"Digital sikkerhed i danske SMV’er 2
 
 <img src="images/cybersikkerhed_i_erhvervslivet.png" width="56%">
 
-Source: [Dansk Erhverv _"Cybersikkerhed i erhvervslivet"_](https://www.danskerhverv.dk/siteassets/mediafolder/dokumenter/01-analyser/analysenotater-2026/cybersikkerhed-i-erhvervslivet-2026.pdf)
+Source: [Dansk Erhverv (2026) _"Cybersikkerhed i erhvervslivet"_](https://www.danskerhverv.dk/siteassets/mediafolder/dokumenter/01-analyser/analysenotater-2026/cybersikkerhed-i-erhvervslivet-2026.pdf)
 
 ---
 
@@ -314,7 +314,7 @@ Example source: https://linuxhandbook.com/tcpdump-http-traffic-analysis/
 
 ---
 
-### TLS encryption
+### TLS encryption: Certificate?
 
 > An SSL/TLS certificate is a **digital object** that allows systems to verify the identity & subsequently establish an encrypted network connection to another system using the Secure Sockets Layer/Transport Layer Security (SSL/TLS) protocol. Certificates are used within a cryptographic system known as a **public key infrastructure** (PKI). PKI provides a way for one party to **establish the identity of another party** using certificates **if they both trust a third-party** - known as a **certificate authority**. SSL/TLS certificates thus act as digital identity cards to secure network communications, establish the identity of websites over the Internet as well as resources on private networks.
 >
